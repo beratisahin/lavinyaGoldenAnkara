@@ -53,7 +53,7 @@ header {
 .menu li a {
   display: block;
   text-decoration: none;
-  color: #e30387 ; /*2E6772  #168B80*/ 
+  color: #E59026 ; /*2E6772  #168B80*/ 
   padding: 1em 1.5em;
   font-size: smaller;
   font-weight: bold;
@@ -129,8 +129,8 @@ header {
   transform: rotate(225deg);
 }
 
-.BlueLivaLogo{
-  width:18rem !important;
+.LavinyaLogo{
+  width:24rem !important;
   height:12rem !important;
   
   
@@ -208,7 +208,7 @@ header {
     width: 2em;
     height: 0.25em;
     display: block;
-    background-color: #e30387 !important; 
+    background-color: #E59026 !important;
     /*background: var(--light);*/
     position: absolute;
     right: 1rem !important;
@@ -261,7 +261,7 @@ header {
     transform: scaleY(1);
   }
 
-  .BlueLivaLogo{
+  .LavinyaLogo{
     width:18rem !important;
     height:10rem !important;
     float: left !important;

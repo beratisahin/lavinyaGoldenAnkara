@@ -32,31 +32,32 @@ function Iletisim() {
 
         <p style={{ fontSize: "medium", textAlign: "left" }}>
               {" "}
-              <a href="mailto:bercislinaerzincan@gmail.com">
+              <a href="mailto:lavinyaankara@gmail.com">
                 <ContactMailIcon style={{ fontSize: "x-large" }} />
               </a>
-              &nbsp; bercislinaerzincan@gmail.com
+              &nbsp; lavinyaankara@gmail.com
             </p>
             <p style={{ fontSize: "medium", textAlign: "left", }}>
               {" "}
               <a
-                href="tel: +905521556524"
+                href="tel: +905528179398"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <WhatsAppIcon style={{ fontSize: "x-large",color:"#25d366" }} />
               </a>
-              &nbsp; <b>0552 155 65 24</b> <FontAwesomeIcon icon="coffee" size="lg" />
+              &nbsp; <b>0552 817 93 98</b> <FontAwesomeIcon icon="coffee" size="lg" />
             </p>
             <p style={{ fontSize: "medium", textAlign: "left" }}>
               <a
-                href="https://goo.gl/maps/6ue7GirtpBLKSZVdA"
+                href="https://goo.gl/maps/kvSBfUQnSYkR1hWa9"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <LocationOnIcon style={{ fontSize: "x-large",color:"#c71535" }} />
               </a>
-              &nbsp; Atatürk Mahallesi Fevzi Paşa Caddesi Ünsal Plaza Daire: 21 Kat:2/4{" "} <br/>Merkez / Erzincan{" "}
+              &nbsp; Remzi Oğuz Arık Mahallesi Tunalı Hilmi Caddesi Tunca Apartmanı No:90 Daire:17 Çankaya / ANKARA
+              
             </p>
       </div>
 
@@ -72,7 +73,7 @@ function Iletisim() {
 
       <div class="col-lg-6 col-md-6 col-sm-12 col-12">
         <iframe
-          src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12270.730315698509!2d39.4938384!3d39.7467805!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x57c6d6ce7769b0dd!2sErzincan%20Bercislina%20G%C3%BCzellik%20Salonu!5e0!3m2!1str!2str!4v1675605218481!5m2!1str!2str"
+          src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12242.481537682064!2d32.8603997!3d39.9051308!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14d34fb21fdc10c7%3A0x2b0faa7595dfec08!2sLavinya%20Golden%20Ankara!5e0!3m2!1str!2str!4v1677537876831!5m2!1str!2str"
           className="googleharita"
           style={{
             width: "100%",
@@ -82,7 +83,7 @@ function Iletisim() {
             referrerpolicy: "no-referrer-when-downgrade",
             ariaHidden: "false",
             tabIndex: "0",
-            border: "2px #e30387 solid",
+            border: "2px #E59026 solid",
             paddingBottom: "0.5rem",
             paddingTop: "0.5rem",
           }}

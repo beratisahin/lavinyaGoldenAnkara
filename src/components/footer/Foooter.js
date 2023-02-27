@@ -10,7 +10,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { Link } from "react-router-dom";
 import PhoneIcon from "@material-ui/icons/Phone";
 import LocationOnIcon from "@material-ui/icons/LocationOn";
-import MainLogo2 from "../header/berErzLogo.png";
+import MainLogo2 from "../header/lavinyaLogo.png";
 
 import React, { Component } from "react";
 
@@ -43,7 +43,7 @@ export default class Foooter extends Component {
                 alt="logo"
                 style={{
                   width: "24rem",
-                  height: "18rem",
+                  height: "12rem",
                   display: "block",
                   align: "center",
                   margin: "auto",
@@ -74,7 +74,7 @@ export default class Foooter extends Component {
             className="col-lg-4 col-md-6 col-sm-6 col-12"
             style={{ fontSize: "12px", marginBottom: "2rem" }}
           >
-            <b style={{ color: "#e30387", fontSize: "18px" }}>
+            <b style={{ color: "#E59026", fontSize: "18px" }}>
               Çalışma Takvimi
             </b>
             <hr />
@@ -119,7 +119,7 @@ export default class Foooter extends Component {
             style={{ fontSize: "15px", marginBottom: "2rem" }}
           >
             <p
-              style={{ color: "#e30387", fontWeight: "bold", fontSize: "18px" }}
+              style={{ color: "#E59026", fontWeight: "bold", fontSize: "18px" }}
             >
               Ankara Lavinya Golden Güzellik Merkezi
             </p>
@@ -133,7 +133,7 @@ export default class Foooter extends Component {
               <FacebookIcon className="icon" style={{ fontSize: "24px" }} />
             </a>
             <a
-              href="https://www.instagram.com/bercislina_guzellik_erzincan/"
+              href="https://www.instagram.com/lavinyagoldenankara/"
               target="_blank"
               rel="noopener noreferrer"
               style={{ float: "left", textIndent: "10px" }}
@@ -144,7 +144,7 @@ export default class Foooter extends Component {
               />
             </a>
             <a
-              href="https://wa.me/+905521556524"
+              href="https://wa.me/+905528179398"
               target="_blank"
               rel="noopener noreferrer"
               style={{ float: "left", textIndent: "10px" }}
@@ -155,7 +155,7 @@ export default class Foooter extends Component {
               />
             </a>
             <a
-              href="tel: +905521556524"
+              href="tel: +905528179398"
               target="_blank"
               rel="noopener noreferrer"
               style={{ float: "left", textIndent: "10px" }}
@@ -177,33 +177,32 @@ export default class Foooter extends Component {
             <br />
             <p style={{ fontSize: "14px", textAlign: "left" }}>
               {" "}
-              <a href="mailto:bercislinaerzincan@gmail.com">
+              <a href="mailto:lavinyaankara@gmail.com">
                 <EmailIcon style={{ fontSize: "24px" }} />
               </a>
-              &nbsp; bercislinaerzincan@gmail.com
+              &nbsp; lavinyaankara@gmail.com
             </p>
             <p style={{ fontSize: "14px", textAlign: "left" }}>
               {" "}
               <a
-                href="tel: +905521556524"
+                href="tel: +905528179398"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <SettingsPhoneIcon style={{ fontSize: "24px" }} />
               </a>
-              &nbsp; 0552 155 65 24 <FontAwesomeIcon icon="coffee" size="lg" />
+              &nbsp; 0552 817 93 98 <FontAwesomeIcon icon="coffee" size="lg" />
             </p>
             <p style={{ fontSize: "14px", textAlign: "left" }}>
               <a
-                href="https://goo.gl/maps/6ue7GirtpBLKSZVdA"
+                href="https://goo.gl/maps/kvSBfUQnSYkR1hWa9"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <HomeIcon style={{ fontSize: "24px" }} />
               </a>
-              &nbsp; Atatürk Mahallesi Fevzi Paşa Caddesi Ünsal Plaza <br />{" "}
-              Daire: 21 Kat:2/4{" "}
-              <b style={{ paddingLeft: "10px" }}>Merkez / Erzincan</b>{" "}
+              &nbsp; Remzi Oğuz Arık Mahallesi Tunalı Hilmi Caddesi Tunca Apartmanı No:90 Daire:17
+              <b style={{ paddingLeft: "10px" }}>Çankaya / ANKARA</b>{" "}
             </p>
           </div>
 
@@ -238,7 +237,7 @@ export default class Foooter extends Component {
 
           <div className="roof-location">
             <a
-              href="https://goo.gl/maps/6ue7GirtpBLKSZVdA"
+              href="https://goo.gl/maps/kvSBfUQnSYkR1hWa9"
               className="location_float"
               target="_blank"
               rel="noopener noreferrer"
@@ -249,7 +248,7 @@ export default class Foooter extends Component {
 
           <div className="roof-phone">
             <a
-              href="tel: +905521556524"
+              href="tel: +905528179398" 
               className="phone_float"
               target="_blank"
               rel="noopener noreferrer"
@@ -260,7 +259,7 @@ export default class Foooter extends Component {
 
           <div className="roof-whatsapp">
             <a
-              href="https://wa.me/+905521556524"
+              href="https://wa.me/+905528179398"
               className="whatsapp_float"
               target="_blank"
               rel="noopener noreferrer"

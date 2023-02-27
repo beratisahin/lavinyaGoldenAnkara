@@ -21,7 +21,7 @@ function Hakkimizda() {
           <br />
           <p class="hizmetyazi">
             Huzurlu atmosferi, güvenliği, teknolojik donanımı, deneyimli güler
-            yüzlü ekibi ile estetik ve güzellik sektöründe Erzincan’da merkezi
+            yüzlü ekibi ile estetik ve güzellik sektöründe Ankara’da merkezi
             konumuyla siz değerli müşterilerimizin hizmetinizdedir. Lazer
             Epilasyon, Dermatolojik ürünlerle Cilt Bakımı, Kalıcı Makyaj,
             Bölgesel Zayıflama, Profesyonel Makyaj, Kaş Tasarımı hizmetlerimiz
@@ -46,8 +46,8 @@ function Hakkimizda() {
             Ankara Lavinya Golden Güzellik Merkezi olarak Lazer Epilasyon, G5
             Masajı, Kavitasyon, Kirpik Lifting, Yosun Peeling,
             Hydrafacial Cilt Bakımı hizmetlerimiz mevcuttur. Kampanyalarımız ve
-            detaylar için sosyal medya hesaplarımızı takipte kalın. Erzincan
-            Bercislina Güzellik Salonu olarak şehrin merkezinde bulunan
+            detaylar için sosyal medya hesaplarımızı takipte kalın. Ankara
+            Lavinya Golden Güzellik Salonu olarak şehrin merkezinde bulunan
             salonumuzda siz değerli müşterilerimize hizmet vermekteyiz. Bayanlar
             ve baylar için epilasyon ve cilt bakım hizmetlerimiz bulunmaktadır.
             Erkekler için ense, boyun, yanak, göbek, göğüs, sırt ve kol
@@ -55,7 +55,7 @@ function Hakkimizda() {
             cilt bakımlarımız da bulunmaktadır. Bayanlar için tüm vücut, bikini
             bölgesi için epilasyon hizmetlerimiz mevcuttur. Hydrafacial ve
             medikal cilt bakımlarımız bulunmaktadır. G5 masajı, selülit
-            sıkılaştırma, bölgesel inceltme hizmetlerimiz mevcuttur. RobotX
+            sıkılaştırma, bölgesel inceltme hizmetlerimiz mevcuttur. UmeX
             marka epilasyon cihazlarımızla 6 odalı salonumuzda aynı anda birkaç
             müşterimize hizmet verebilmekteyiz.
           </p>

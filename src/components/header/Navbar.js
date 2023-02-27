@@ -7,7 +7,7 @@ import HomeIcon from "@material-ui/icons/Home";
 import ContactlessIcon from "@material-ui/icons/Contactless";
 import CategoryIcon from "@material-ui/icons/Category";
 
-import Logo4 from "./berErzLogo.png";
+import Logo4 from "./lavinyaLogo.png";
 
 export default class Navbar extends Component {
   componentDidMount() {
@@ -27,7 +27,7 @@ export default class Navbar extends Component {
           <div class="branding">
             <a href="/">
               <img
-                className="BlueLivaLogo"
+                className="LavinyaLogo"
                 title="Ankara Lavinya Golden Güzellik Merkezi"
                 src={Logo4}
               ></img>

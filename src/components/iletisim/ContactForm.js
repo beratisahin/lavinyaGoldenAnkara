@@ -180,7 +180,7 @@ class ContactForm extends Component {
               style={{
                 display: "flex",
                 justifyContent: "center",
-                color: "#e30387",
+                color: "#E59026",
                 padding: "1%",
                 fontSize: "large",
               }}
@@ -299,7 +299,7 @@ class ContactForm extends Component {
                     className="btn btn-primary gonder"
                     type="submit"
                     style={{
-                      backgroundColor: "#e30387",
+                      backgroundColor: "#E59026",
                       display: "block",
                       margin: "auto",
                       align: "justify",
