@@ -37,7 +37,7 @@ function Hakkimizda() {
           <p class="hizmetyazi">
             Yılların verdiği özgüven ve tecrübe ile daima en iyiyi hedefleyen bu
             doğrultu da yıllardır ekip ve ekipmanı ile sektörün vazgeçilmezi
-            olmak için emin adımlarla, şehrin gözdesi Erzincan merkezde ileri seviye hizmet vermektedir. Kadın ve erkeklere özel
+            olmak için emin adımlarla, şehrin gözdesi Ankara merkezde ileri seviye hizmet vermektedir. Kadın ve erkeklere özel
             ayrı salonlarımızda, memnuniyet ve sonuç odaklı profesyonel
             uygulamalar yapıyoruz.
           </p>
