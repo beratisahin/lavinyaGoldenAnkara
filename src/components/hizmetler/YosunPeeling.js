@@ -44,27 +44,6 @@ export default function YosunPeeling() {
           </p>
 
           <h4>
-            <strong>Kaş laminasyonu nedir?&nbsp;</strong>
-          </h4>
-          <p class="hizmetyazi">
-            Kaş laminasyonu, kaşların uzun süreli şekillendirilmesini sağlayan
-            kaş bakım işlemidir. Kaşların yukarı doğru sabit kalmasını sağlarken
-            bir yandan da kaşların daha taranmış ve şekilli görünmesine yardımcı
-            olur. Bazı sert kaş kılları ters yöne doğru uzayabiliyor veya içe
-            doğru kıvrılabiliyor. Kaş laminasyonu, bu gibi inatçı kaşların
-            şekillendirilmesini sağlayarak daha düzgün uzayan gür kaşlara sahip
-            olmana yardımcı olur. Kaş laminasyonu yarı kalıcı bir işlemdir,
-            ortalama ömrü 6-8 hafta arasındadır. Kaş laminasyonu kimlere uygun?:
-            Bu işlemi en çok kaşları sürekli aşağı düşen, kıvrılan ve yanlış
-            yöne doğru uzayan kişiler yaptırıyor. Sert kaşlara sahip olup, gün
-            içinde kaşlarının düşmesinden ve kaşların simetrisinin bozuk
-            olmasından şikayetçi olan kişiler için kaş laminasyonu uygundur. Kaş
-            laminasyonunda kaşların arası doldurulmaz, bu nedenle daha gür
-            kaşlara sahip olmak isteyenler işlemden iki gün sonra microblading
-            yani kalıcı kaş makyajı yaptırabilirler.
-          </p>
-
-          <h4>
             <strong>Uygulamadan sonra dikkat edilmesi gerekenler:&nbsp;</strong>
           </h4>
           <p class="hizmetyazi">
@@ -105,7 +84,7 @@ export default function YosunPeeling() {
           </div>
           <h4>
             <strong>
-              Algea peelingin etki ettiği cilt problemleri nelerdir?&nbsp;
+              Allgea peelingin etki ettiği cilt problemleri nelerdir?&nbsp;
             </strong>
           </h4>
           <p class="hizmetyazi">
@@ -116,7 +95,7 @@ export default function YosunPeeling() {
           </p>
 
           <h4>
-            <strong>Aile peeling in faydaları nelerdir?&nbsp;</strong>
+            <strong>Allgea peelingin faydaları nelerdir?&nbsp;</strong>
           </h4>
           <p class="hizmetyazi">
             Cildi temizler, Hücre yenilenmesini uyarır, Kollajen ve elastin
