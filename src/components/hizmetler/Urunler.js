@@ -7,6 +7,10 @@ import Hydrafacial2 from "./cihazImage/hydra2.webp";
 import UmeXCihaz from "./cihazImage/umeXCihaz.webp";
 import Umex from "./cihazImage/umex.webp";
 import Baslik from "./cihazImage/baslik.webp";
+import Magic from "./cihazImage/magicSlim.webp";
+import CiltAnaliz from "./cihazImage/ciltAnaliz.webp";
+
+
 
 export default function Urunler() {
   useDocumentTitle("Ankara Güzellik Merkezi - Lazer Epilasyon");
@@ -183,7 +187,7 @@ export default function Urunler() {
                       class="accPho"
                       alt="Diode Lazer"
                       title="Ankara Lazer Epilasyon"
-                      src="https://www.capitalmedikal.com/upload/cilt-analizi.png"
+                      src={CiltAnaliz}
                       style={{
                         width: "200px",
                         height: "108px",
@@ -226,6 +230,106 @@ export default function Urunler() {
                       kalkar. Dokunmatik ekranlar donmalara, takılmalara ve
                       arızalara karşı korumalı hale gelir. Kullanım ömürleri 10
                       yıla kadar uzar.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="headingTwo">
+                <button
+                  class="accordion-button collapsed"
+                  type="button"
+                  data-bs-toggle="collapse"
+                  data-bs-target="#collapseTwo"
+                  aria-expanded="true"
+                  aria-controls="collapseTwo"
+                >
+                  Magic Born Slim Cihazı
+                </button>
+              </h2>
+              <div
+                id="collapseTwo"
+                class="accordion-collapse collapse show"
+                aria-labelledby="headingTwo"
+                data-bs-parent="#accordionExample"
+              >
+                <div class="accordion-body">
+                  <div>
+                    <img
+                      class="accPho"
+                      alt=""
+                      src={Magic}
+                      style={{
+                        width: "30%",
+                        height: "40%",
+                        marginRight: "1rem",
+                      }}
+                    ></img>
+                    <p class="urunyazi">
+                      Magic Born Slim sarkık cilt, lokalize yağ, fibrotik alan,
+                      çatlaklar ile gevşek ve yumuşak selülit bölgelerinin
+                      normalleşmesi için geliştirilmiş ses dalgaları ile yağ
+                      yakma makinesidir. 27–40 Khzlik darbeler 1,7 Mhz operasyon
+                      frekansına bindirilerek farklı cilt tipleri için rezonans
+                      sorunları ortadan kaldırılmıştır. Bölge deformasyonuna
+                      göre 12 seans kafidir. İlk seans dan sonra netice fark
+                      edilir ve 6. seans da olgunluğa erişir. Magic Born Slim yüksek
+                      frekanslı ses dalgaları kullanılarak geliştirilmiş yağ
+                      yakma cihazıdır. Karın, kalça, basen, bacak, boyun ve kol
+                      bölgelerinde biriken lokalize yağ çeperlerini küçülterek
+                      incelme sağlar. Aynı zamanda sarkık cilt, çatlaklar ve
+                      selülit gibi sorunların giderilmesinde büyük oranda
+                      etkilidir. Hem kadınlarda hem erkeklerde uygulanabilen
+                      Magic Born Slim selülitli bölgeler ve lokal fazlalıkların
+                      giderilmesinde etkili olduğu kadar çene altında oluşan
+                      deformasyon ve sarkmalarda da toparlayıcı etkiye sahiptir.
+                      Magic Born Slim, bölgesel zayıflama söz konusu olduğunda ilk
+                      akla gelen yöntemlerden biridir. Düzenli spor ve yoğun
+                      diyet gibi kilo verme programları bölgesel olarak incelmek
+                      isteyen kişilerde zorlu bir süreç olabilir. Bu aşamada,
+                      bir dış etkene ihtiyaç duyulan durumlarda cerrahi
+                      müdahaleye gerek kalmadan, heykeltraş yöntemi olarak da
+                      anılan Magic Born Slim devreye girer.
+                    </p>
+                  </div>
+
+                  <div>
+                    <p class="urunbaslik">
+                      Magic Born Slim ile Bölgesel Zayıflama İşlemi Nasıl
+                      Uygulanır?
+                    </p>
+                    <p class="urunyazi">
+                      Cilt yüzeyine jel sürülerek ses dalgalarının cilt altına
+                      iletilmesi sağlanır. İletilen enerji ciltteki kolajen
+                      üretimini tetikleyerek doku elastikiyeti kazandırır. İşlem
+                      süresi 30 dakikadır. Uygulama sırasında ve sonrasında
+                      herhangi bir acı ve ağrı oluşmaz.
+                    </p>
+
+                    <p class="urunbaslik">
+                      Magic Born Slim Kaç Seansta Sonuç Verir?
+                    </p>
+                    <p class="urunyazi">
+                      İlk seanstan itibaren incelme etkisi gözle görülür bir
+                      orandadır. Bölgedeki deformasyona ve vücuttaki yağ
+                      kalınlığına bağlı olarak kişinin ihtiyacına uygun bir
+                      program belirlenerek ortalama 8 seansta 10 – 12 cm
+                      garantili incelme gerçekleşir. Parçalanmış yağ hücreleri
+                      vücuttan lenfatik yollarla atıldığından alınan sonuç
+                      kalıcıdır.
+                    </p>
+
+                    <p class="urunbaslik">
+                      Magic Born Slim yaptıranlar Nelere Dikkat Etmelidir?
+                    </p>
+                    <p class="urunyazi">
+                      Seans öncesinde mutlaka aç olunmalı sonrasında ise yağlı
+                      yiyecekler ve karbonhidrattan mümkün olduğunca uzak
+                      durulmalıdır. Tedavi sürecinde bol su içmek parçalanmış
+                      yağ hücrelerinin vücuttan atılmasını hızlandırır. Atılan
+                      yağlar yerine kas oluşumu mümkün olduğundan
+                      hareketsizlikten ve yanlış beslenmeden kaçınılmalıdır.
                     </p>
                   </div>
                 </div>
