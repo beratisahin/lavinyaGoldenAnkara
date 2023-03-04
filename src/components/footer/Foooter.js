@@ -144,7 +144,7 @@ export default class Foooter extends Component {
               />
             </a>
             <a
-              href="https://wa.me/+905528179398"
+              href="https://wa.me/+905527394624" 
               target="_blank"
               rel="noopener noreferrer"
               style={{ float: "left", textIndent: "10px" }}
@@ -155,7 +155,7 @@ export default class Foooter extends Component {
               />
             </a>
             <a
-              href="tel: +905528179398"
+              href="tel: +905527394624"
               target="_blank"
               rel="noopener noreferrer"
               style={{ float: "left", textIndent: "10px" }}
@@ -185,13 +185,13 @@ export default class Foooter extends Component {
             <p style={{ fontSize: "14px", textAlign: "left" }}>
               {" "}
               <a
-                href="tel: +905528179398"
+                href="tel: +905527394624"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <SettingsPhoneIcon style={{ fontSize: "24px" }} />
               </a>
-              &nbsp; 0552 817 93 98 <FontAwesomeIcon icon="coffee" size="lg" />
+              &nbsp; 0552 273 46 24 <FontAwesomeIcon icon="coffee" size="lg" />
             </p>
             <p style={{ fontSize: "14px", textAlign: "left" }}>
               <a
@@ -248,7 +248,7 @@ export default class Foooter extends Component {
 
           <div className="roof-phone">
             <a
-              href="tel: +905528179398" 
+              href="tel: +905527394624" 
               className="phone_float"
               target="_blank"
               rel="noopener noreferrer"
@@ -259,7 +259,7 @@ export default class Foooter extends Component {
 
           <div className="roof-whatsapp">
             <a
-              href="https://wa.me/+905528179398"
+              href="https://wa.me/+905527394624"
               className="whatsapp_float"
               target="_blank"
               rel="noopener noreferrer"

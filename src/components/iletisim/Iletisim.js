@@ -40,6 +40,17 @@ function Iletisim() {
             <p style={{ fontSize: "medium", textAlign: "left", }}>
               {" "}
               <a
+                href="tel: +905527394624"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <WhatsAppIcon style={{ fontSize: "x-large",color:"#25d366" }} />
+              </a>
+              &nbsp; <b>0552 739 46 24</b> <FontAwesomeIcon icon="coffee" size="lg" /> 
+            </p>
+            <p style={{ fontSize: "medium", textAlign: "left", }}>
+              {" "}
+              <a
                 href="tel: +905528179398"
                 target="_blank"
                 rel="noopener noreferrer"
