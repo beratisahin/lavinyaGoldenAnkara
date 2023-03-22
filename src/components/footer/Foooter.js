@@ -191,7 +191,7 @@ export default class Foooter extends Component {
               >
                 <SettingsPhoneIcon style={{ fontSize: "24px" }} />
               </a>
-              &nbsp; 0552 273 46 24 <FontAwesomeIcon icon="coffee" size="lg" />
+              &nbsp; 0552 739 46 24 <FontAwesomeIcon icon="coffee" size="lg" />
             </p>
             <p style={{ fontSize: "14px", textAlign: "left" }}>
               <a
